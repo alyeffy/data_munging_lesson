@@ -1,2 +1,2 @@
 # data_munging_lesson
-Code for lesson on using plyr &amp; dplyr
+Learning to process and transform data with basic plyr &amp; dplyr tools
